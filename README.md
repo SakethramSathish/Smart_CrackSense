@@ -4,7 +4,7 @@
 ![Image Processing](https://img.shields.io/badge/Image%20Processing-orange)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green)
 
-Smart CrackSense 2.0 is an open research codebase for automated crack detection and severity estimation on structural images. It combines image enhancement, segmentation, feature extraction, and classical machine learning to provide accurate detection and visual feedback for inspection workflows.
+Smart CrackSense is an open research codebase for automated crack detection and severity estimation on structural images. It combines image enhancement, segmentation, feature extraction, and classical machine learning to provide accurate detection and visual feedback for inspection workflows.
 
 **Highlights**
 - Color- and contrast-aware enhancement (CLAHE, denoising, sharpening)
@@ -18,7 +18,7 @@ Smart CrackSense 2.0 is an open research codebase for automated crack detection 
 
 ```bash
 git clone https://github.com/your-username/Smart-CrackSense.git
-cd "Smart CrackSense 2.0"
+cd "Smart CrackSense"
 ```
 
 2. Create and activate a Python virtual environment (recommended):
