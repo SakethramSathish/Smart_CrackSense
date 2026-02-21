@@ -1,4 +1,4 @@
-# Smart CrackSense 2.0
+# Smart CrackSense
 
 ![Crack Detection](https://img.shields.io/badge/Crack%20Detection-blue)
 ![Image Processing](https://img.shields.io/badge/Image%20Processing-orange)
